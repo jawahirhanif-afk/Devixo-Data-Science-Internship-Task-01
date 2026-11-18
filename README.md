@@ -68,7 +68,6 @@ A total of 13 visualizations were prepared, including:
 - Support different customer payment preferences.
 - Investigate customer feedback for Home and Lifestyle products.
 
-## Project Folder Structure
 ## Project Files
 
 The following files are included in this repository:
