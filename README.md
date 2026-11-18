@@ -69,16 +69,16 @@ A total of 13 visualizations were prepared, including:
 - Investigate customer feedback for Home and Lifestyle products.
 
 ## Project Folder Structure
-```text
-Devixo_Data_Science_Task_01/
-│
-├── Notebook/
-├── Dataset/
-├── Report/
-├── Visualizations/
-├── Screenshots/
-└── README.md
-```
+## Project Files
+
+The following files are included in this repository:
+
+- **Notebook:** `Devixo_Internship_Jawahir_Hanif.ipynb`
+- **Dataset:** `supermarket_sales - Sheet1.csv`
+- **Report:** `Devixo_Data_Science_Task_01_Report.pdf`
+- **Visualizations:** 13 PNG visualization images
+- **Screenshots:** Project evidence screenshots
+- **README:** Project description and documentation
 
 ## How to Run the Project
 1. Open Google Colab.
